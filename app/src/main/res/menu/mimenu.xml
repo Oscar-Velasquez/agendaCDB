@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:id="@+id/mnxAgregar"
+    android:icon="@drawable/input"
+    android:title="Agregar"/>
+    <item
+        android:id="@+id/mnxModificar"
+        android:icon="@drawable/edit"
+        android:title="Modificar"/>
+    <item
+        android:id="@+id/mnxEliminar"
+        android:icon="@drawable/delete"
+        android:title="Eliminar"/>
+</menu>

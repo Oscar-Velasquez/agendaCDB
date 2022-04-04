@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/agendaCDB/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Samuel/Documents/Ciclo III/Programacion Computacional II/Tareas/agendaCDB/app/src/main/res/drawable/add.xml" value="0.1515" />
+        <entry key="..\:/Users/Samuel/Documents/Ciclo III/Programacion Computacional II/Tareas/agendaCDB/app/src/main/res/drawable/desigbbuton.xml" value="0.215" />
+        <entry key="..\:/Users/Samuel/Documents/Ciclo III/Programacion Computacional II/Tareas/agendaCDB/app/src/main/res/layout/activity_agregar_agenda.xml" value="0.264" />
+        <entry key="..\:/Users/Samuel/Documents/Ciclo III/Programacion Computacional II/Tareas/agendaCDB/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Samuel/Documents/Ciclo III/Programacion Computacional II/Tareas/agendaCDB/app/src/main/res/layout/designboton.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Samuel/Documents/Ciclo III/Programacion Computacional II/Tareas/agendaCDB/app/src/main/res/menu/mimenu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
